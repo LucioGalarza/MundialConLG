@@ -12,7 +12,7 @@
 const productosHistoricos = [
   {
     idProducto: "P001",
-    nombre: "Cuadro Conmemorativo Mano de Dios",
+    nombre: "Cuadro Conmemorativo Mano del Diego",
     mundial: "México 1986",
     categoria: "Cuadro",
     descripcion: "Reproducción artística del instante exacto en que Maradona anota con la mano ante Inglaterra en cuartos de final. Un momento que dividió al mundo y se convirtió en leyenda inmortal del fútbol. Impresión de alta definición en bastidor de madera, 60x80 cm.",
